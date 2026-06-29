@@ -1,0 +1,129 @@
+{
+  "" : {
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBank-primary.dia",
+    "emit-module-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBank-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBank-primary-emit-module.dia",
+    "pch" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBank-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBank-primary.swiftdeps"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/ContentView.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Item.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Models/SavingsGoal.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/SavingsGoal~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/PiggyBankApp.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyBankApp~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Utils/Formatters.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/Formatters~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Utils/PiggyTheme.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/PiggyTheme~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Views/AddDepositView.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/AddDepositView~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Views/DepositHistoryView.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositHistoryView~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Views/DepositRecord.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/DepositRecord~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Views/GoalSetUpView.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/GoalSetUpView~partial.swiftmodule"
+  },
+  "/Users/minahoyamasaki/Desktop/PiggyBank/PiggyBank/Views/HomeView.swift" : {
+    "const-values" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/minahoyamasaki/Desktop/PiggyBank/.derivedData/Build/Intermediates.noindex/PiggyBank.build/Debug-iphoneos/PiggyBank.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  }
+}
